@@ -1,0 +1,661 @@
+[
+  {
+    "data": {
+      "search": {
+        "edges": [
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6Nw==",
+              "name": "Accessories",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6OA==",
+              "name": "Groceries",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6OQ==",
+              "name": "Apparel",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MTA=",
+              "name": "T-shirts",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MTE=",
+              "name": "Polo Shirts",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MTI=",
+              "name": "Hoodies",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MTM=",
+              "name": "Footwear",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MTQ=",
+              "name": "Juices",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MTU=",
+              "name": "Alcohol",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MjA=",
+              "name": "Paints",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MjI=",
+              "name": "Homewares",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q2F0ZWdvcnk6MjM=",
+              "name": "Audiobooks",
+              "__typename": "Category"
+            },
+            "__typename": "CategoryCountableEdge"
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "WyIyMyJd",
+          "hasNextPage": false,
+          "hasPreviousPage": false,
+          "startCursor": "WyI3Il0=",
+          "__typename": "PageInfo"
+        },
+        "__typename": "CategoryCountableConnection"
+      }
+    }
+  },
+  {
+    "data": {
+      "search": {
+        "edges": [
+          {
+            "node": {
+              "id": "Q29sbGVjdGlvbjoz",
+              "name": "Featured Products",
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q29sbGVjdGlvbjox",
+              "name": "Summer collection",
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionCountableEdge"
+          },
+          {
+            "node": {
+              "id": "Q29sbGVjdGlvbjoy",
+              "name": "Winter sale",
+              "__typename": "Collection"
+            },
+            "__typename": "CollectionCountableEdge"
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "WyJ3aW50ZXItc2FsZSJd",
+          "hasNextPage": false,
+          "hasPreviousPage": false,
+          "startCursor": "WyJmZWF0dXJlZC1wcm9kdWN0cyJd",
+          "__typename": "PageInfo"
+        },
+        "__typename": "CollectionCountableConnection"
+      }
+    }
+  },
+  {
+    "data": {
+      "search": {
+        "edges": [
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3Mg==",
+              "name": "Apple Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_06-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3NA==",
+              "name": "Banana Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_01-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMjI=",
+              "name": "Bathroom Songs",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleor-digital-03_4-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3OQ==",
+              "name": "Bean Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_02-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMTU=",
+              "name": "Black Hoodie",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_cl_bogo01_1-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMTY=",
+              "name": "Blue Hoodie",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_cl_bogo02_1-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3Mw==",
+              "name": "Carrot Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_05-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3Ng==",
+              "name": "Coconut Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_02-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo4OQ==",
+              "name": "Code Division T-shirt",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_cl_boot07_1-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo4NQ==",
+              "name": "Colored Parrot Cushion",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_cuschion01-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3OA==",
+              "name": "Green Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_04-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo2NQ==",
+              "name": "Hyperspace Turquoise Paint",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_paints_05-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMjM=",
+              "name": "Lagoon Chants",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleor-digital-03_5-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMjA=",
+              "name": "Lake Tunes",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleor-digital-03_2-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo2NA==",
+              "name": "Light Speed Yellow Paint",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_paints_04-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMTc=",
+              "name": "Mustard Hoodie",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_cl_bogo03_1-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo2MQ==",
+              "name": "Nebula Night Sky Paint",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_paints_01-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDoxMjE=",
+              "name": "Ocean Poems",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleor-digital-03_3-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3MQ==",
+              "name": "Orange Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_06-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          },
+          {
+            "node": {
+              "id": "UHJvZHVjdDo3NQ==",
+              "name": "Pineapple Juice",
+              "thumbnail": {
+                "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_03-thumbnail-255x255.png",
+                "__typename": "Image"
+              },
+              "__typename": "Product"
+            },
+            "__typename": "ProductCountableEdge"
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "WyJwaW5lYXBwbGUtanVpY2UiXQ==",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "WyJhcHBsZS1qdWljZSJd",
+          "__typename": "PageInfo"
+        },
+        "__typename": "ProductCountableConnection"
+      }
+    }
+  },
+  {
+    "data": {
+      "sale": {
+        "metadata": [],
+        "privateMetadata": [],
+        "__typename": "Sale",
+        "id": "U2FsZToxMg==",
+        "name": "Happy her day!",
+        "type": "PERCENTAGE",
+        "startDate": "2021-06-15T15:36:12.251987+00:00",
+        "endDate": null,
+        "channelListings": [
+          {
+            "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjg=",
+            "channel": {
+              "id": "Q2hhbm5lbDoz",
+              "name": "Channel-PLN",
+              "currencyCode": "PLN",
+              "__typename": "Channel"
+            },
+            "discountValue": 50.0,
+            "currency": "PLN",
+            "__typename": "SaleChannelListing"
+          },
+          {
+            "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjk=",
+            "channel": {
+              "id": "Q2hhbm5lbDoy",
+              "name": "Channel-USD",
+              "currencyCode": "USD",
+              "__typename": "Channel"
+            },
+            "discountValue": 30.0,
+            "currency": "USD",
+            "__typename": "SaleChannelListing"
+          }
+        ],
+        "products": {
+          "edges": [
+            {
+              "node": {
+                "id": "UHJvZHVjdDo4OQ==",
+                "name": "Code Division T-shirt",
+                "productType": {
+                  "id": "UHJvZHVjdFR5cGU6MTQ=",
+                  "name": "Top (clothing)",
+                  "__typename": "ProductType"
+                },
+                "thumbnail": {
+                  "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_cl_boot07_1-thumbnail-255x255.png",
+                  "__typename": "Image"
+                },
+                "channelListings": [
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2020-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoy",
+                      "name": "Channel-USD",
+                      "currencyCode": "USD",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  },
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2020-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoz",
+                      "name": "Channel-PLN",
+                      "currencyCode": "PLN",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  }
+                ],
+                "__typename": "Product"
+              },
+              "__typename": "ProductCountableEdge"
+            },
+            {
+              "node": {
+                "id": "UHJvZHVjdDo2NQ==",
+                "name": "Hyperspace Turquoise Paint",
+                "productType": {
+                  "id": "UHJvZHVjdFR5cGU6Nw==",
+                  "name": "Paint",
+                  "__typename": "ProductType"
+                },
+                "thumbnail": {
+                  "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_paints_05-thumbnail-255x255.png",
+                  "__typename": "Image"
+                },
+                "channelListings": [
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2021-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoy",
+                      "name": "Channel-USD",
+                      "currencyCode": "USD",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  },
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2021-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoz",
+                      "name": "Channel-PLN",
+                      "currencyCode": "PLN",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  }
+                ],
+                "__typename": "Product"
+              },
+              "__typename": "ProductCountableEdge"
+            },
+            {
+              "node": {
+                "id": "UHJvZHVjdDo3Nw==",
+                "name": "Power Juice",
+                "productType": {
+                  "id": "UHJvZHVjdFR5cGU6OQ==",
+                  "name": "Juice",
+                  "__typename": "ProductType"
+                },
+                "thumbnail": {
+                  "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_fd_juice_03-thumbnail-255x255.png",
+                  "__typename": "Image"
+                },
+                "channelListings": [
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2020-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoy",
+                      "name": "Channel-USD",
+                      "currencyCode": "USD",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  },
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2020-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoz",
+                      "name": "Channel-PLN",
+                      "currencyCode": "PLN",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  }
+                ],
+                "__typename": "Product"
+              },
+              "__typename": "ProductCountableEdge"
+            },
+            {
+              "node": {
+                "id": "UHJvZHVjdDo4Mg==",
+                "name": "White Wine",
+                "productType": {
+                  "id": "UHJvZHVjdFR5cGU6MTA=",
+                  "name": "Wine",
+                  "__typename": "ProductType"
+                },
+                "thumbnail": {
+                  "url": "https://demo.saleor.io/media/__sized__/products/saleordemoproduct_wine-white-thumbnail-255x255.png",
+                  "__typename": "Image"
+                },
+                "channelListings": [
+                  {
+                    "isPublished": true,
+                    "publicationDate": "2020-01-01",
+                    "isAvailableForPurchase": true,
+                    "availableForPurchase": "2020-08-31",
+                    "visibleInListings": true,
+                    "channel": {
+                      "id": "Q2hhbm5lbDoy",
+                      "name": "Channel-USD",
+                      "currencyCode": "USD",
+                      "__typename": "Channel"
+                    },
+                    "__typename": "ProductChannelListing"
+                  }
+                ],
+                "__typename": "Product"
+              },
+              "__typename": "ProductCountableEdge"
+            }
+          ],
+          "pageInfo": {
+            "endCursor": "WyJ3aGl0ZS13aW5lIl0=",
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "startCursor": "WyJjb2RlLWRpdmlzaW9uLXQtc2hpcnQiXQ==",
+            "__typename": "PageInfo"
+          },
+          "totalCount": 4,
+          "__typename": "ProductCountableConnection"
+        },
+        "categories": {
+          "edges": [],
+          "pageInfo": {
+            "endCursor": null,
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "startCursor": null,
+            "__typename": "PageInfo"
+          },
+          "totalCount": 0,
+          "__typename": "CategoryCountableConnection"
+        },
+        "collections": {
+          "edges": [],
+          "pageInfo": {
+            "endCursor": null,
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "startCursor": null,
+            "__typename": "PageInfo"
+          },
+          "totalCount": 0,
+          "__typename": "CollectionCountableConnection"
+        }
+      }
+    }
+  }
+]
