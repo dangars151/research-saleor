@@ -1,0 +1,5 @@
+- sơ đồ thực thể liên Kết
+https://app.diagrams.net/#G17ah_tsCyc3NbK5NDGaTIyZv9dofbcdwP
+- link demo 
+https://demo.saleor.io/dashboard/discounts/sales?asc=true&sort=name
+

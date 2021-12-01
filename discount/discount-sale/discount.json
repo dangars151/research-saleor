@@ -1,0 +1,279 @@
+[
+  {
+    "data": {
+      "search": {
+        "edges": [
+          {
+            "node": {
+              "id": "VXNlcjo1OQ==",
+              "email": "admin@example.com",
+              "firstName": "",
+              "lastName": "",
+              "__typename": "User"
+            },
+            "__typename": "UserCountableEdge"
+          },
+          {
+            "node": {
+              "id": "VXNlcjo3OTU=",
+              "email": "brandon.ruiz@example.com",
+              "firstName": "Brandon",
+              "lastName": "Ruiz",
+              "__typename": "User"
+            },
+            "__typename": "UserCountableEdge"
+          },
+          {
+            "node": {
+              "id": "VXNlcjozMTc=",
+              "email": "corey.hawkins@example.com",
+              "firstName": "Corey",
+              "lastName": "Hawkins",
+              "__typename": "User"
+            },
+            "__typename": "UserCountableEdge"
+          },
+          {
+            "node": {
+              "id": "VXNlcjo0NTc=",
+              "email": "courtney.schmidt@example.com",
+              "firstName": "Courtney",
+              "lastName": "Schmidt",
+              "__typename": "User"
+            },
+            "__typename": "UserCountableEdge"
+          },
+          {
+            "node": {
+              "id": "VXNlcjo1NzQ=",
+              "email": "david.brewer@example.com",
+              "firstName": "David",
+              "lastName": "Brewer",
+              "__typename": "User"
+            },
+            "__typename": "UserCountableEdge"
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "WyJkYXZpZC5icmV3ZXJAZXhhbXBsZS5jb20iXQ==",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "WyJhZG1pbkBleGFtcGxlLmNvbSJd",
+          "__typename": "PageInfo"
+        },
+        "__typename": "UserCountableConnection"
+      }
+    }
+  },
+  {
+    "data": {
+      "sales": {
+        "edges": [
+          {
+            "node": {
+              "metadata": [],
+              "privateMetadata": [],
+              "__typename": "Sale",
+              "id": "U2FsZToxMQ==",
+              "name": "Happy ever day!",
+              "type": "PERCENTAGE",
+              "startDate": "2021-06-15T15:36:12.111560+00:00",
+              "endDate": null,
+              "channelListings": [
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjY=",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoz",
+                    "name": "Channel-PLN",
+                    "currencyCode": "PLN",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 10.0,
+                  "currency": "PLN",
+                  "__typename": "SaleChannelListing"
+                },
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjc=",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoy",
+                    "name": "Channel-USD",
+                    "currencyCode": "USD",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 40.0,
+                  "currency": "USD",
+                  "__typename": "SaleChannelListing"
+                }
+              ]
+            },
+            "__typename": "SaleCountableEdge"
+          },
+          {
+            "node": {
+              "metadata": [],
+              "privateMetadata": [],
+              "__typename": "Sale",
+              "id": "U2FsZToxMg==",
+              "name": "Happy her day!",
+              "type": "PERCENTAGE",
+              "startDate": "2021-06-15T15:36:12.251987+00:00",
+              "endDate": null,
+              "channelListings": [
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjg=",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoz",
+                    "name": "Channel-PLN",
+                    "currencyCode": "PLN",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 50.0,
+                  "currency": "PLN",
+                  "__typename": "SaleChannelListing"
+                },
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjk=",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoy",
+                    "name": "Channel-USD",
+                    "currencyCode": "USD",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 30.0,
+                  "currency": "USD",
+                  "__typename": "SaleChannelListing"
+                }
+              ]
+            },
+            "__typename": "SaleCountableEdge"
+          },
+          {
+            "node": {
+              "metadata": [],
+              "privateMetadata": [],
+              "__typename": "Sale",
+              "id": "U2FsZToxNQ==",
+              "name": "Happy many day!",
+              "type": "PERCENTAGE",
+              "startDate": "2021-06-15T15:36:12.618278+00:00",
+              "endDate": null,
+              "channelListings": [
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjE0",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoz",
+                    "name": "Channel-PLN",
+                    "currencyCode": "PLN",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 10.0,
+                  "currency": "PLN",
+                  "__typename": "SaleChannelListing"
+                },
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjE1",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoy",
+                    "name": "Channel-USD",
+                    "currencyCode": "USD",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 10.0,
+                  "currency": "USD",
+                  "__typename": "SaleChannelListing"
+                }
+              ]
+            },
+            "__typename": "SaleCountableEdge"
+          },
+          {
+            "node": {
+              "metadata": [],
+              "privateMetadata": [],
+              "__typename": "Sale",
+              "id": "U2FsZToxNA==",
+              "name": "Happy sign day!",
+              "type": "PERCENTAGE",
+              "startDate": "2021-06-15T15:36:12.490605+00:00",
+              "endDate": null,
+              "channelListings": [
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjEy",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoz",
+                    "name": "Channel-PLN",
+                    "currencyCode": "PLN",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 50.0,
+                  "currency": "PLN",
+                  "__typename": "SaleChannelListing"
+                },
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjEz",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoy",
+                    "name": "Channel-USD",
+                    "currencyCode": "USD",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 50.0,
+                  "currency": "USD",
+                  "__typename": "SaleChannelListing"
+                }
+              ]
+            },
+            "__typename": "SaleCountableEdge"
+          },
+          {
+            "node": {
+              "metadata": [],
+              "privateMetadata": [],
+              "__typename": "Sale",
+              "id": "U2FsZToxMw==",
+              "name": "Happy west day!",
+              "type": "PERCENTAGE",
+              "startDate": "2021-06-15T15:36:12.368705+00:00",
+              "endDate": null,
+              "channelListings": [
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjEw",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoz",
+                    "name": "Channel-PLN",
+                    "currencyCode": "PLN",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 10.0,
+                  "currency": "PLN",
+                  "__typename": "SaleChannelListing"
+                },
+                {
+                  "id": "U2FsZUNoYW5uZWxMaXN0aW5nOjEx",
+                  "channel": {
+                    "id": "Q2hhbm5lbDoy",
+                    "name": "Channel-USD",
+                    "currencyCode": "USD",
+                    "__typename": "Channel"
+                  },
+                  "discountValue": 40.0,
+                  "currency": "USD",
+                  "__typename": "SaleChannelListing"
+                }
+              ]
+            },
+            "__typename": "SaleCountableEdge"
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "WyJIYXBweSB3ZXN0IGRheSEiLCAiMTMiXQ==",
+          "hasNextPage": false,
+          "hasPreviousPage": false,
+          "startCursor": "WyJIYXBweSBldmVyIGRheSEiLCAiMTEiXQ==",
+          "__typename": "PageInfo"
+        },
+        "__typename": "SaleCountableConnection"
+      }
+    }
+  }
+]
